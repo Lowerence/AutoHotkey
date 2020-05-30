@@ -35,14 +35,15 @@ IfWinNotExist,  GTA:SA:MP
 
     }
 }
+CMD.Register("author1","author1") ; +
 CMD.Register("car1","car1") ; +
 CMD.Register("sys1","sys1") ; +
 CMD.Register("promocods","promocods") ; +
-CMD.Register("mo1","mo1") ; +
+CMD.Register("us1","us1") ; +
 CMD.Register("tag1","tag1") ; +
 CMD.Register("koap1","koap1") ; +
-CMD.Register("mo2","mo2") ; +
-CMD.Register("mo3","mo3") ; +
+CMD.Register("us2","us2") ; +
+CMD.Register("us3","us3") ; +
 CMD.Register("uk1","uk1") ; +
 CMD.Register("uk2","uk2") ; +
 CMD.Register("uk3","uk3") ; +
