@@ -553,7 +553,7 @@ author1() {
 {8180bd}Переделал под ДПС: Boruto Uzumaki.
 		
 	)
-
+		showdialog(0, "Авторы", str_mo5, "Закрыть")
 }
 
 tag1() {
